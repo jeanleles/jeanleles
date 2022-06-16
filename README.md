@@ -29,7 +29,7 @@ Sou apaixonado por tecnologia e tenho estudado muito para buscar o meu crescimen
 ## 👥 Connect With Me
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeanleles/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/https://twitter.com/jeanleles"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/jeanleles"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/jeanleles"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.instagram.com/https://www.instagram.com/jeanleles"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
