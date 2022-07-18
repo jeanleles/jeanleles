@@ -32,17 +32,8 @@ Sou apaixonado por tecnologia e tenho estudado muito para buscar o meu crescimen
 <a href="https://www.instagram.com/jeanleles"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
-</p>
-
 ## 📊 Github Status
 
-
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanleles&layout=compact"><p>
-
-<p><img src="https://metrics.lecoq.io/jeanleles"><p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanleles"><p>
