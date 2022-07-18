@@ -37,14 +37,9 @@ Sou apaixonado por tecnologia e tenho estudado muito para buscar o meu crescimen
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
 </p>
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=jeanleles">
-</p>
-
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=jeanleles"><p>
+
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=jeanleles&show_icons=true"><p>
 
