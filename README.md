@@ -39,9 +39,7 @@ Sou apaixonado por tecnologia e tenho estudado muito para buscar o meu crescimen
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=jeanleles"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=jeanleles&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanleles&layout=compact"><p>
 
