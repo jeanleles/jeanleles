@@ -1,13 +1,13 @@
-# Hi there 👋, My name is Jean Leles
+# Hello World!
 
 <img width="100%" src="https://jeanleles.com/images/bg-github.png" alt="my banner">
 
-Formado em Ciência da Computação pela PUC-Goiás, trabalho com Cyber Security e infraestrutura de TI há 7 anos.
+Formado em Ciência da Computação pela PUC-Goiás, trabalho com Cyber Security e infraestrutura de TI há 9 anos.
 Na área de desenvolvimento web tenho criado websites para pequenas e médias empresas. E tenho também gerenciado redes sociais e campanhas no Google Ads e Facebook Ads.
 Sou apaixonado por tecnologia e tenho estudado muito para buscar o meu crescimento nas áreas de Cybersecurity e Desenvolvimento Web.
 
 ## 💫 Liitle Bit More About Me
-<p>🌱 I'm currently learning Javascript, Nodejs, React</p>
+<p>🌱 I'm currently learning Javascript, Nodejs, React, Next.js, Vue...</p>
 <p>💬 Ask me about Front-end Development</p>
 <p>📫 How to reach me? contato@jeanleles.com</p>
 <p>I regularly write articles on <a href="jeanleles.com">https://github.com/jeanleles/</a></p>
