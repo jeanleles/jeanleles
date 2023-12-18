@@ -35,7 +35,7 @@ Sou apaixonado por tecnologia e tenho estudado muito para buscar o meu crescimen
 <img src="https://img.shields.io/badge/graphql-E535AB.svg?style=for-the-badge&logo=graphql&logoColor=white" style="margin-bottom: 6px;" height="30px">
 <img src="https://img.shields.io/badge/powerbi-F7DC68.svg?style=for-the-badge&logo=powerbi&logoColor=white" style="margin-bottom: 6px;" height="30px">
 <img src="https://img.shields.io/badge/wordpress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" style="margin-bottom: 6px;" height="30px">
-<img src="https://img.shields.io/badge/figma-4F5664.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/figma-9D56F7.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 6px;" height="30px">
 </p>
 
 
