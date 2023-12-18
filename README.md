@@ -6,11 +6,11 @@ Formado em Ciência da Computação pela PUC-Goiás, trabalho com Cyber Security
 Na área de desenvolvimento web tenho criado websites para pequenas e médias empresas. E tenho também gerenciado redes sociais e campanhas no Google Ads e Facebook Ads.
 Sou apaixonado por tecnologia e tenho estudado muito para buscar o meu crescimento nas áreas de Cybersecurity e Desenvolvimento Web.
 
-## 💫 Liitle Bit More About Me
-<p>🌱 I'm currently learning Javascript, Nodejs, React, Next.js, Vue...</p>
-<p>💬 Ask me about Front-end Development</p>
-<p>📫 How to reach me? contato@jeanleles.com</p>
-<p>I regularly write articles on <a href="jeanleles.com">https://github.com/jeanleles/</a></p>
+## 💫 Um pouco mais sobre mim...
+<p>🌱 Atuallmente estou estudando Javascript, Nodejs, React, Next.js, Vue...</p>
+<p>💬 Gosto de Desenvolvimento Front-end</p>
+<p>📫 contato@jeanleles.com</p>
+<p>💻 Meu site <a href="jeanleles.com">https://jeanleles.com/</a></p>
 
 ## 💻 Skills
 <p>
@@ -24,7 +24,7 @@ Sou apaixonado por tecnologia e tenho estudado muito para buscar o meu crescimen
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 👥 Connect With Me
+## 👥 Conecte comigo:
 <p>
 <a href="https://www.linkedin.com/in/jeanleles/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/jeanleles"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
