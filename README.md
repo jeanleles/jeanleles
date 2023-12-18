@@ -21,14 +21,20 @@ Sou apaixonado por tecnologia e tenho estudado muito para buscar o meu crescimen
 
 ## 💻 Skills
 <p>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/mysql-01728D?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/tailwind-15B8C5.svg?style=for-the-badge&logo=tailwind&logoColor=white" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/graphql-E535AB.svg?style=for-the-badge&logo=graphql&logoColor=white" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/figma-4F5664.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/powerbi-F7DC68.svg?style=for-the-badge&logo=powerbi&logoColor=white" style="margin-bottom: 6px;" height="30px">
 </p>
 
 
