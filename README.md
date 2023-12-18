@@ -10,7 +10,7 @@ Sou apaixonado por tecnologia e tenho estudado muito para buscar o meu crescimen
 <p>🌱 Atuallmente estou estudando Javascript, Nodejs, React, Next.js, Vue...</p>
 <p>💬 Gosto de Desenvolvimento Front-end</p>
 <p>📫 contato@jeanleles.com</p>
-<p>💻 Meu site <a href="jeanleles.com">https://jeanleles.com/</a></p>
+<p>💻 Meu site <a href="[jeanleles.com](https://jeanleles.com/)">jeanleles.com</a></p>
 
 ## 💻 Skills
 <p>
