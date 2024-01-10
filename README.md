@@ -1,7 +1,5 @@
 # Hello World!
 
-<img width="100%" src="https://jeanleles.com/images/bg-github.png" alt="my banner">
-
 Formado em Ciência da Computação pela PUC-Goiás, trabalho com Cyber Security e infraestrutura de TI há 9 anos.
 Na área de desenvolvimento web tenho criado websites para pequenas e médias empresas. E tenho também gerenciado redes sociais e campanhas no Google Ads e Facebook Ads.
 Sou apaixonado por tecnologia e tenho estudado muito para buscar o meu crescimento nas áreas de Cybersecurity e Desenvolvimento Web.
