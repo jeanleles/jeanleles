@@ -5,7 +5,7 @@ Na área de desenvolvimento web tenho criado websites para pequenas e médias em
 Sou apaixonado por tecnologia e tenho estudado muito para buscar o meu crescimento nas áreas de Cybersecurity e Desenvolvimento Web.
 
 ## 💫 Um pouco mais sobre mim...
-<p>🌱 Atuallmente estou estudando Javascript, Nodejs, React, Next.js, Vue...</p>
+<p>🌱 Atualmente estou estudando Javascript, Nodejs, React, Next.js, Vue...</p>
 <p>💬 Gosto de Desenvolvimento Front-end</p>
 <p>📫 contato@jeanleles.com</p>
 <p>💻 Meu site <a href="https://jeanleles.com/">jeanleles.com</a></p>
