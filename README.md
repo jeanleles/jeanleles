@@ -35,6 +35,7 @@ Sou um apaixonado por tecnologia, constantemente buscando aprender algo novo e m
 <img src="https://img.shields.io/badge/powerbi-F7DC68.svg?style=for-the-badge&logo=powerbi&logoColor=white" style="margin-bottom: 6px;" height="30px">
 <img src="https://img.shields.io/badge/wordpress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" style="margin-bottom: 6px;" height="30px">
 <img src="https://img.shields.io/badge/figma-9D56F7.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 6px;" height="30px">
+<img src="https://img.shields.io/badge/angular-F50C52.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 6px;" height="30px">
 </p>
 
 
