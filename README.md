@@ -6,7 +6,7 @@ Sou um apaixonado por tecnologia, constantemente buscando aprender algo novo e m
 
 
 ## 💫 Um pouco mais sobre mim...
-<p>🌱 Atualmente estou estudando Javascript, Nodejs, React, Next.js, Vue...</p>
+<p>🌱 Atualmente estou trabalhando com Angular e estudando TypeScript, React, Next.js...</p>
 <p>💬 Gosto de Desenvolvimento Front-end</p>
 <p>📫 contato@jeanleles.com</p>
 <p>💻 Meu site <a href="https://jeanleles.com/">jeanleles.com</a></p>
