@@ -1,8 +1,9 @@
 # Hello World!
 
-Formado em Ciência da Computação pela PUC-Goiás, trabalho com Cyber Security e infraestrutura de TI há 9 anos.
-Na área de desenvolvimento web tenho criado websites para pequenas e médias empresas. E tenho também gerenciado redes sociais e campanhas no Google Ads e Facebook Ads.
-Sou apaixonado por tecnologia e tenho estudado muito para buscar o meu crescimento nas áreas de Cybersecurity e Desenvolvimento Web.
+Sou formado em Ciência da Computação pela PUC-Goiás e tenho uma especialização em Segurança da Informação pela Faculdade Descomplica. Atualmente, trabalho como Analista de Sistemas no Serpro, onde atuo como desenvolvedor web front-end com foco em Angular e Java.
+Com 9 anos de experiência nas áreas de Cyber Security e infraestrutura de TI. E desenvolvi websites e aplicações web para empresas de pequeno e médio porte, usando tecnologias como HTML5, CSS3, Javascript, React, Next.js, Node.js, GraphQL e WordPress.
+Sou um apaixonado por tecnologia, constantemente buscando aprender algo novo e me aprofundar nas áreas em que atuo!
+
 
 ## 💫 Um pouco mais sobre mim...
 <p>🌱 Atualmente estou estudando Javascript, Nodejs, React, Next.js, Vue...</p>
