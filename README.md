@@ -1,7 +1,9 @@
 # Hello World!
 
-Sou formado em Ciência da Computação pela PUC-Goiás e tenho uma especialização em Segurança da Informação pela Faculdade Descomplica. Atualmente, trabalho como Analista de Sistemas no Serpro, onde atuo como desenvolvedor web front-end com foco em Angular e Java.
-Com 9 anos de experiência nas áreas de Cyber Security e infraestrutura de TI. E desenvolvi websites e aplicações web para empresas de pequeno e médio porte, usando tecnologias como HTML5, CSS3, Javascript, React, Next.js, Node.js, GraphQL e WordPress.
+Sou formado em Ciência da Computação pela PUC-Goiás e tenho pós-graduação em Segurança da Informação pela Faculdade Descomplica. Atualmente trabalho como Analista de Sistemas, atuando como desenvolvedor web front-end com foco em Angular e Java.
+
+Com 9 anos de experiência nas áreas de Cyber Security e infraestrutura de TI. E desenvolvi websites e aplicações web para empresas de pequeno e médio porte, usando tecnologias como HTML5, CSS3, Javascript, TypeScript, Angular, Node.js, GraphQL e WordPress.
+
 Sou um apaixonado por tecnologia, constantemente buscando aprender algo novo e me aprofundar nas áreas em que atuo!
 
 
